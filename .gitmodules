@@ -1,0 +1,6 @@
+[submodule "tikz_bars"]
+	path = tikz_bars
+	url = https://github.com/wm901115nwpu/tikz_bars.git
+[submodule "tkzgeom"]
+	path = tkzgeom
+	url = https://github.com/wm901115nwpu/tkzgeom.git
